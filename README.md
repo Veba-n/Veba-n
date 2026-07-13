@@ -1,30 +1,29 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
-  Merhaba, Ben Veba!
+  Hi there, I'm Veba!
 </h1>
 
-<h3 align="center">Geliştirici & Sistem Mimarı | Yüksek Performanslı Çözümler Üretir</h3>
+<h3 align="center">Developer & System Architect | Building High-Performance Solutions</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Veba-n&label=Profil%20Görüntülenme&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Veba-n&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Sistem+Programlama+Tutkunu;Yeni+Nesil+Motorlar+Geliştiriyor;Performans+Optimizasyonu;Her+Zaman+Öğreniyor+ve+Üretiyor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=System+Programming+Enthusiast;Building+Next-Gen+Engines;Passionate+about+Performance;Always+Learning+and+Creating" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Hakkımda
+### About Me
 
-- 🔭 Şu anda **yüksek performanslı sistemler ve motor geliştirme** üzerine odaklanıyorum.
-- 🌱 Mimari ve optimizasyon konusunda **yeni paradigmalar** keşfediyorum.
-- ⚡ **İlginç bilgi**: Karmaşık mantık bulmacalarını çözmekten ve zarif kodlar yazmaktan keyif alıyorum.
-- 💬 Teknolojiyle ilgili herhangi bir şey sorabilirsiniz, her zaman yardımcı olmaktan mutluluk duyarım!
+- Currently focused on **high-performance systems and engine development**.
+- Exploring **new paradigms** in software architecture and code optimization.
+- **Fun fact**: I enjoy solving complex logic puzzles and crafting elegant code.
+- Feel free to ask me anything related to technology, I'm always happy to help!
 
 ---
 
-### 🛠️ Teknoloji Yığını & Araçlar
+### Tech Stack & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +33,7 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Veba-n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Veba's GitHub stats" />
