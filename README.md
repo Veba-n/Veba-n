@@ -35,14 +35,13 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Veba-n/Cerberus">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veba-n&repo=Cerberus&theme=tokyonight&hide_border=true&bg_color=0D1117&show_owner=true" alt="Cerberus" />
+        <a href="https://github.com/Veba-n/VebaStickers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veba-n&repo=VebaStickers&theme=tokyonight&hide_border=true&bg_color=0D1117&show_owner=true" alt="VebaStickers" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
 ---
 
 ### Activity Graph (Last 31 Days)
