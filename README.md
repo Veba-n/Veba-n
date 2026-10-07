@@ -30,7 +30,7 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Veba-n/Axiom-Engine">
+        <a href="https://github.com/Veba-n/Axiom">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Veba-n&repo=Axiom-Engine&theme=tokyonight&hide_border=true&bg_color=0D1117&show_owner=true" alt="Axiom Engine" />
         </a>
       </td>
